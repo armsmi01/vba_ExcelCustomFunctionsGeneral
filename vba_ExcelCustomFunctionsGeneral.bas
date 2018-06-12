@@ -1,11 +1,11 @@
 'title: vba_ExcelCustomFunctionsGeneral
 'note: insert into stand-alone module, do not insert into existing modules or objects
-
+'
 'author: Michael J. Armstrong
 'contact: marmstrong310@gmail.com
 '© 2017, 2018 Michael J. Armstrong, Toronto, Ontario, Canada
 'Distributed under the terms of the GNU General Public License v3.0
-
+'
 'This program is free software: you can redistribute it and/or modify
 'it under the terms of the GNU General Public License as published by
 'the Free Software Foundation, either version 3 of the License, or
@@ -18,7 +18,6 @@
 '
 'You should have received a copy of the GNU General Public License
 'along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
 
 Function OptimizeOn()
 'Disable all process items to optimize VBA code
